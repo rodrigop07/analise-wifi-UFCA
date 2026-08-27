@@ -1,0 +1,136 @@
+sala,Localização,Latitude,Longitude,nome da rede,banda,largura,canal,wifi mode,mimo,sinal,Velocidade de downlink,velocidade de uplink,latência,jitter,Room,Position,Is_Corredor
+K,"dentro k04, p1",,,eduroam,5 GHz,40 MHz,132.0,802.11ac (Wi-Fi 5),3x3,-54 dBm,90 Mbps,180 Mbps,31 ms,5 ms,k04,p1,FALSE
+K,"dentro k04, p1",,,eduroam,2.4 GHz,20 MHz,6.0,802.11n (Wi-Fi 4),3x3,-40 dBm,30 Mbps,82 Mbps,39 ms,5 ms,k04,p1,FALSE
+K,"dentro k04, p1",,,ufca-gov,5 GHz,40 MHz,132.0,802.11ac (Wi-Fi 5),3x3,-57 dBm,127 Mbps,101 Mbps,32 ms,9 ms,k04,p1,FALSE
+K,"dentro k04, p1",,,ufca-gov,2.4 GHz,20 MHz,6.0,802.11n (Wi-Fi 4),3x3,-36 dBm,67 Mbps,84 Mbps,23 ms,0 ms,k04,p1,FALSE
+K,"dentro k04, p2",,,eduroam,2.4 GHz,20 MHz,6.0,802.11n (Wi-Fi 4),3x3,-36 dBm,11 Mbps,24 Mbps,28 ms,3 ms,k04,p2,FALSE
+K,"dentro k04, p2",,,eduroam,5 GHz,40 MHz,100.0,802.11ac (Wi-Fi 5),3x3,-70 dBm,112 Mbps,52 Mbps,27 ms,1 ms,k04,p2,FALSE
+K,"dentro k04, p2",,,ufca-gov,2.4 GHz,20 MHz,6.0,802.11n (Wi-Fi 4),3x3,-36 dBm,71 Mbps,87 Mbps,23 ms,1 ms,k04,p2,FALSE
+K,"dentro k04, p2",,,ufca-gov,5 GHz,40 MHz,100.0,802.11ac (Wi-Fi 5),3x3,-70 dBm,42 Mbps,12 Mbps,26 ms,2 ms,k04,p2,FALSE
+K,"dentro k04, p3",,,eduroam,2.4 GHz,20 MHz,6.0,802.11n (Wi-Fi 4),3x3,-31 dBm,56 Mbps,69 Mbps,25 ms,2 ms,k04,p3,FALSE
+K,"dentro k04, p3",,,eduroam,5 GHz,40 MHz,60.0,802.11ac (Wi-Fi 5),3x3,-64 dBm,92 Mbps,94 Mbps,26 ms,1 ms,k04,p3,FALSE
+K,"dentro k04, p3",,,ufca-gov,2.4 GHz,20 MHz,6.0,802.11n (Wi-Fi 4),3x3,-36 dBm,67 Mbps,72 Mbps,24 ms,1 ms,k04,p3,FALSE
+K,"dentro k04, p3",,,ufca-gov,5 GHz,40 MHz,132.0,802.11ac (Wi-Fi 5),3x3,-49 dBm,178 Mbps,164 Mbps,24 ms,1 ms,k04,p3,FALSE
+K,"dentro k04, p4",,,eduroam,5 GHz,40 MHz,60.0,802.11ac (Wi-Fi 5),3x3,-68 dBm,67 Mbps,95 Mbps,26 ms,2 ms,k04,p4,FALSE
+K,"dentro k04, p4",,,eduroam,2.4 GHz,20 MHz,100.0,802.11n (Wi-Fi 4),3x3,-29 dBm,39 Mbps,38 Mbps,60 ms,24 ms,k04,p4,FALSE
+K,"dentro k04, p4",,,ufca-gov,2.4 GHz,20 MHz,6.0,802.11n (Wi-Fi 4),3x3,-36 dBm,52 Mbps,73 Mbps,26 ms,2 ms,k04,p4,FALSE
+K,"dentro k04, p4",,,ufca-gov,5 GHz,40 MHz,100.0,802.11ac (Wi-Fi 5),3x3,-68 dBm,81 Mbps,45 Mbps,28 ms,4 ms,k04,p4,FALSE
+K,"dentro k04, p5",,,ufca-gov,5 GHz,40 MHz,132.0,802.11ac (Wi-Fi 5),3x3,-57 dBm,46 Mbps,65 Mbps,26 ms,2 ms,k04,p5,FALSE
+K,"dentro k04, p5",,,ufca-gov,5 GHz,40 MHz,132.0,802.11ac (Wi-Fi 5),3x3,-36 dBm,32 Mbps,9 Mbps,25 ms,0 ms,k04,p5,FALSE
+K,"dentro k04, p5",,,eduroam,5 GHz,40 MHz,132.0,802.11ac (Wi-Fi 5),3x3,-57 dBm,127 Mbps,120 Mbps,26 ms,4 ms,k04,p5,FALSE
+K,"dentro k04, p5",,,eduroam,2.4 GHz,40 MHz,6.0,802.11n (Wi-Fi 4),3x3,-44 dBm,29 Mbps,49 Mbps,26 ms,2 ms,k04,p5,FALSE
+A,"dentro A22-s, p1",,,eduroam,2.4 GHz,20 MHz,6.0,802.11n (Wi-Fi 4),4x4,-40 dBm,2 Mbps,3 Mbps,301 ms,182 ms,A22,p1,FALSE
+A,"dentro A22-s, p1",,,eduroam,5 GHz,40 MHz,104.0,802.11ac (Wi-Fi 5),4x4,-57 dBm,105 Mbps,98 Mbps,28 ms,11 ms,A22,p1,FALSE
+A,"dentro A22-s, p2",,,eduroam,2.4 GHz,20 MHz,6.0,802.11n (Wi-Fi 4),4x4,-40 dBm,2 Mbps,1 Mbps,214 ms,49 ms,A22,p2,FALSE
+A,"dentro A22-s, p2",,,eduroam,5 GHz,40 MHz,104.0,802.11ac (Wi-Fi 5),4x4,-58 dBm,68 Mbps,84 Mbps,39 ms,24 ms,A22,p2,FALSE
+A,"dentro A22-s, p3",,,eduroam,2.4 GHz,20 MHz,6.0,802.11n (Wi-Fi 4),4x4,-40 dBm,1 Mbps,1 Mbps,352 ms,188 ms,A22,p3,FALSE
+A,"dentro A22-s, p3",,,eduroam,5 GHz,40 MHz,104.0,802.11ac (Wi-Fi 5),4x4,-51 dBm,98 Mbps,124 Mbps,22 ms,1 ms,A22,p3,FALSE
+A,"dentro A22-s, p4",,,eduroam,2.4 GHz,20 MHz,6.0,802.11n (Wi-Fi 4),4x4,-40 dBm,3 Mbps,1 Mbps,79 ms,43 ms,A22,p4,FALSE
+A,"dentro A22-s, p4",,,eduroam,5 GHz,40 MHz,104.0,802.11ac (Wi-Fi 5),4x4,-55 dBm,87 Mbps,114 Mbps,23 ms,1 ms,A22,p4,FALSE
+A,"dentro  A22-s, p5",,,eduroam,2.4 GHz,20 MHz,6.0,802.11n (Wi-Fi 4),4x4,-40 dBm,1 Mbps,0 Mbps,188 ms,98 ms,A22,p5,FALSE
+A,"dentro A22-s, p5",,,eduroam,5 GHz,40 MHz,104.0,802.11ac (Wi-Fi 5),4x4,-49 dBm,17 Mbps,2 Mbps,101 ms,70 ms,A22,p5,FALSE
+A,"dentro A24-s, p5",,,eduroam,2.4 GHz,20 MHz,6.0,802.11n (Wi-Fi 4),4x4,-56 dBm,1 Mbps,2 Mbps,180 ms,76 ms,A24,p5,FALSE
+A,"dentro A24-s, p5",,,eduroam,5 GHz,40 MHz,132.0,802.11ac (Wi-Fi 5),4x4,-38 dBm,131 Mbps,126 Mbps,26 ms,2 ms,A24,p5,FALSE
+A,"dentro A24-s, p4",,,eduroam,2.4 GHz,20 MHz,6.0,802.11n (Wi-Fi 4),4x4,-64 dBm,2 Mbps,3 Mbps,102 ms,41 ms,A24,p4,FALSE
+A,"dentro A24-s, p4",,,eduroam,5 GHz,40 MHz,132.0,802.11ac (Wi-Fi 5),4x4,-46 dBm,110 Mbps,135 Mbps,35 ms,21 ms,A24,p4,FALSE
+A,"dentro A24-s, p3",,,eduroam,2.4 GHz,20 MHz,6.0,802.11n (Wi-Fi 4),4x4,-61 dBm,3 Mbps,2 Mbps,53 ms,18 ms,A24,p3,FALSE
+A,"dentro A24-s, p3",,,eduroam,5 GHz,40 MHz,132.0,802.11ac (Wi-Fi 5),4x4,-46 dBm,79 Mbps,132 Mbps,24 ms,0 ms,A24,p3,FALSE
+A,"dentro A24-s, p2",,,eduroam,2.4 GHz,20 MHz,6.0,802.11n (Wi-Fi 4),4x4,-54 dBm,1 Mbps,1 Mbps,245 ms,189 ms,A24,p2,FALSE
+A,"dentro A24-s, p2",,,eduroam,5 GHz,40 MHz,132.0,802.11ac (Wi-Fi 5),4x4,-59 dBm,80 Mbps,82 Mbps,43 ms,32 ms,A24,p2,FALSE
+A,"dentro A24-s, p1",,,eduroam,2.4 GHz,20 MHz,6.0,802.11n (Wi-Fi 4),4x4,-56 dBm,1 Mbps,2 Mbps,214 ms,129 ms,A24,p1,FALSE
+A,"dentro A24-s, p1",,,eduroam,5 GHz,40 MHz,132.0,802.11ac (Wi-Fi 5),4x4,-53 dBm,101 Mbps,115 Mbps,24 ms,0 ms,A24,p1,FALSE
+A,corredor A38-s,,,eduroam,2.4 GHz,20 MHz,6.0,802.11n (Wi-Fi 4),4x4,-50 dBm,4 Mbps,3 Mbps,34 ms,4 ms,A38,,TRUE
+A,corredor A38-s,,,eduroam,5 GHz,40 MHz,132.0,802.11ac (Wi-Fi 5),4x4,-49 dBm,115 Mbps,116 Mbps,23 ms,0 ms,A38,,TRUE
+A,corredor A36-s,,,eduroam,2.4 GHz,20 MHz,6.0,802.11n (Wi-Fi 4),4x4,-49 dBm,4 Mbps,2 Mbps,33 ms,6 ms,A36,,TRUE
+A,corredor A36-s,,,eduroam,5 GHz,40 MHz,132.0,802.11ac (Wi-Fi 5),4x4,-25 dBm,112 Mbps,109 Mbps,22 ms,0 ms,A36,,TRUE
+A,corredor A33-s,,,eduroam,2.4 GHz,20 MHz,6.0,802.11n (Wi-Fi 4),4x4,-34 dBm,3 Mbps,3 Mbps,28 ms,1 ms,A33,,TRUE
+A,corredor A33-s,,,eduroam,5 GHz,40 MHz,132.0,802.11ac (Wi-Fi 5),4x4,-46 dBm,120 Mbps,128 Mbps,28 ms,3 ms,A33,,TRUE
+A,corredor A30-s,,,eduroam,2.4 GHz,20 MHz,6.0,802.11n (Wi-Fi 4),4x4,-24 dBm,2 Mbps,3 Mbps,301 ms,245 ms,A30,,TRUE
+A,corredor A30-s,,,eduroam,5 GHz,40 MHz,132.0,802.11ac (Wi-Fi 5),4x4,-55 dBm,123 Mbps,112 Mbps,22 ms,1 ms,A30,,TRUE
+A,corredor A24-s,,,eduroam,2.4 GHz,20 MHz,6.0,802.11n (Wi-Fi 4),4x4,-29 dBm,1 Mbps,1 Mbps,419 ms,283 ms,A24,,TRUE
+A,corredor A24-s,,,eduroam,5 GHz,40 MHz,132.0,802.11ac (Wi-Fi 5),4x4,-49 dBm,75 Mbps,115 Mbps,39 ms,9 ms,A24,,TRUE
+A,A02 p2,,,eduroam,2.4 GHz,20 MHz,6.0,802.11n (Wi-Fi 4),4x4,-56 dBm,2 Mbps,2 Mbps,236 ms,224 ms,A02,p2,FALSE
+A,"A02, p2",,,eduroam,5 GHz,40 MHz,64.0,802.11ac (Wi-Fi 5),4x4,-56 dBm,117 Mbps,102 Mbps,32 ms,13 ms,A02,p2,FALSE
+A,"A02, p3",,,eduroam,2.4 GHz,20 MHz,1.0,802.11n (Wi-Fi 4),4x4,-48 dBm,3 Mbps,2 Mbps,80 ms,25 ms,A02,p3,FALSE
+A,"A02, p3",,,eduroam,5 GHz,40 MHz,64.0,802.11ac (Wi-Fi 5),4x4,-63 dBm,66 Mbps,64 Mbps,29 ms,10 ms,A02,p3,FALSE
+A,"A02, p1",,,eduroam,2.4 GHz,20 MHz,1.0,802.11n (Wi-Fi 4),4x4,-54 dBm,15 Mbps,14 Mbps,32 ms,5 ms,A02,p1,FALSE
+A,"A02, p1",,,eduroam,5 GHz,40 MHz,64.0,802.11ac (Wi-Fi 5),4x4,-62 dBm,68 Mbps,77 Mbps,26 ms,5 ms,A02,p1,FALSE
+A,"A02 , p4",,,eduroam,2.4 GHz,20 MHz,1.0,802.11n (Wi-Fi 4),4x4,-40 dBm,4 Mbps,2 Mbps,32 ms,3 ms,A02,p4,FALSE
+A,"A02, p4",,,eduroam,5 GHz,40 MHz,64.0,802.11ac (Wi-Fi 5),4x4,-59 dBm,99 Mbps,98 Mbps,23 ms,2 ms,A02,p4,FALSE
+A,"A02, p5",,,eduroam,2.4 GHz,20 MHz,1.0,802.11n (Wi-Fi 4),4x4,-40 dBm,3 Mbps,2 Mbps,62 ms,13 ms,A02,p5,FALSE
+A,"A02, p5",,,eduroam,5 GHz,40 MHz,64.0,802.11ac (Wi-Fi 5),4x4,-69 dBm,116 Mbps,104 Mbps,22 ms,0 ms,A02,p5,FALSE
+A,corredor A01,,,eduroam,2.4 GHz,20 MHz,1.0,802.11n (Wi-Fi 4),4x4,-48 dBm,2 Mbps,1 Mbps,110 ms,43 ms,A01,,TRUE
+A,corredor A01,,,eduroam,5 GHz,40 MHz,36.0,802.11ac (Wi-Fi 5),4x4,-53 dBm,146 Mbps,167 Mbps,24 ms,0 ms,A01,,TRUE
+A,corredor A10,,,eduroam,2.4 GHz,20 MHz,1.0,802.11n (Wi-Fi 4),4x4,-40 dBm,2 Mbps,1 Mbps,323 ms,157 ms,A10,,TRUE
+A,corredor A10,,,eduroam,5 GHz,40 MHz,64.0,802.11ac (Wi-Fi 5),4x4,-38 dBm,113 Mbps,147 Mbps,24 ms,1 ms,A10,,TRUE
+A,corredor A14,,,eduroam,2.4 GHz,20 MHz,1.0,802.11n (Wi-Fi 4),4x4,-36 dBm,5 Mbps,2 Mbps,35 ms,3 ms,A14,,TRUE
+A,corredor A14,,,eduroam,5 GHz,40 MHz,64.0,802.11ac (Wi-Fi 5),4x4,-68 dBm,99 Mbps,51 Mbps,22 ms,1 ms,A14,,TRUE
+A,corredor A17,,,eduroam,2.4 GHz,20 MHz,1.0,802.11n (Wi-Fi 4),4x4,-24 dBm,2 Mbps,3 Mbps,94 ms,21 ms,A17,,TRUE
+A,corredor A17,,,eduroam,5 GHz,40 MHz,64.0,802.11ac (Wi-Fi 5),4x4,-71 dBm,72 Mbps,29 Mbps,22 ms,0 ms,A17,,TRUE
+A,corredor A21,,,eduroam,2.4 GHz,20 MHz,1.0,802.11n (Wi-Fi 4),4x4,-44 dBm,2 Mbps,3 Mbps,77 ms,11 ms,A21,,TRUE
+A,corredor A21,,,eduroam,5 GHz,40 MHz,36.0,802.11ac (Wi-Fi 5),4x4,-68 dBm,116 Mbps,40 Mbps,23 ms,1 ms,A21,,TRUE
+A,"dentro A23-s, p2",,,eduroam,2.4 GHz,20 MHz,11.0,802.11n (Wi-Fi 4),4x4,-48 dBm,0 Mbps,2 Mbps,97 ms,38 ms,A23,p2,FALSE
+A,"dentro A23-s, p2",,,eduroam,5 GHz,40 MHz,64.0,802.11ac (Wi-Fi 5),4x4,-66 dBm,180 Mbps,81 Mbps,22 ms,0 ms,A23,p2,FALSE
+A,"dentro A23-s, p1",,,eduroam,2.4 GHz,20 MHz,11.0,802.11n (Wi-Fi 4),4x4,-56 dBm,0 Mbps,0 Mbps,411 ms,374 ms,A23,p1,FALSE
+A,"dentro A23-s, p1",,,eduroam,5 GHz,40 MHz,104.0,802.11ac (Wi-Fi 5),4x4,-62 dBm,162 Mbps,45 Mbps,22 ms,0 ms,A23,p1,FALSE
+A,"dentro A23-s, p3",,,eduroam,2.4 GHz,20 MHz,11.0,802.11n (Wi-Fi 4),4x4,-52 dBm,0.1,0.1,411 ms,374 ms,A23,p3,FALSE
+A,"dentro A23-s, p3",,,eduroam,5 GHz,40 MHz,104.0,802.11ac (Wi-Fi 5),4x4,-55 dBm,65.3,79.3,24 ms,1 ms,A23,p3,FALSE
+A,"dentro A23-s, p5",,,eduroam,5 GHz,40 MHz,104.0,802.11ac (Wi-Fi 5),4x4,-71 dBm,67.1,58.1,26 ms,0 ms,A23,p5,FALSE
+A,"dentro A23-s, p4",,,eduroam,5 GHz,40 MHz,104.0,802.11ac (Wi-Fi 5),4x4,-62 dBm,162 Mbps,31 Mbps,24 ms,0 ms,A23,p4,FALSE
+K,"dentro K02-S, p2",,,eduroam,2.4 GHz,20 MHz,1.0,802.11n (Wi-Fi 4),3x3,-47 dBm,10 Mbps,20 Mbps,92 ms,20 ms,K02,p2,FALSE
+K,"dentro K02-S, p5",,,eduroam,2.4 GHz,20 MHz,1.0,802.11n (Wi-Fi 4),3x3,-47 dBm,15 Mbps,24 Mbps,45 ms,10 ms,K02,p5,FALSE
+K,"dentro K02-S, p3",,,eduroam,2.4 GHz,20 MHz,1.0,802.11n (Wi-Fi 4),3x3,-47 dBm,28 Mbps,26 Mbps,58 ms,23 ms,K02,p3,FALSE
+K,"dentro K02-S, p1",,,eduroam,2.4 GHz,20 MHz,1.0,802.11n (Wi-Fi 4),3x3,-47 dBm,12 Mbps,18 Mbps,52 ms,19 ms,K02,p1,FALSE
+K,"dentro K02-S, p4",,,eduroam,2.4 GHz,20 MHz,1.0,802.11n (Wi-Fi 4),3x3,-47 dBm,19 Mbps,1 Mbps,24 ms,1 ms,K02,p4,FALSE
+K,meio do corredor K-subsolo,,,eduroam,5 GHz,40 MHz,116.0,802.11ac (Wi-Fi 5),3x3,-40 dBm,86 Mbps,94 Mbps,25 ms,1 ms,K,,TRUE
+K,meio do corredor K-subsolo,,,eduroam,2.4 GHz,20 MHz,1.0,802.11n (Wi-Fi 4),3x3,-21 dBm,4 Mbps,41 Mbps,58 ms,22 ms,K,,TRUE
+K,final do corredor K-subsolo,,,eduroam,5 GHz,40 MHz,116.0,802.11ac (Wi-Fi 5),3x3,-47 dBm,90 Mbps,95 Mbps,36 ms,21 ms,K,,TRUE
+K,final do corredor K-subsolo,,,eduroam,2.4 GHz,20 MHz,1.0,802.11n (Wi-Fi 4),3x3,-30 dBm,9 Mbps,39 Mbps,76 ms,36 ms,K,,TRUE
+K,final do corredor K-subsolo,,,eduroam,5 GHz,40 MHz,116.0,802.11ac (Wi-Fi 5),3x3,-42 dBm,45 Mbps,97 Mbps,23 ms,1 ms,K,,TRUE
+K,final do corredor K-subsolo,,,eduroam,2.4 GHz,20 MHz,1.0,802.11n (Wi-Fi 4),3x3,-30 dBm,49 Mbps,46 Mbps,33 ms,1 ms,K,,TRUE
+K,"laboratorio de informatica K01-S, p1",,,eduroam,5 GHz,40 MHz,116.0,802.11ac (Wi-Fi 5),3x3,-57 dBm,55 Mbps,86 Mbps,25 ms,1 ms,K01,p1,FALSE
+K,"laboratorio de informatica K01-S, p1",,,eduroam,2.4 GHz,20 MHz,1.0,802.11n (Wi-Fi 4),3x3,-41 dBm,30 Mbps,37 Mbps,23 ms,2 ms,K01,p1,FALSE
+K,"laboratorio de informatica K01-S, p2",,,eduroam,5 GHz,40 MHz,116.0,802.11ac (Wi-Fi 5),3x3,-54 dBm,62 Mbps,94 Mbps,24 ms,0 ms,K01,p2,FALSE
+K,"laboratorio de informatica K01-S, p2",,,eduroam,2.4 GHz,20 MHz,1.0,802.11n (Wi-Fi 4),3x3,-46 dBm,44 Mbps,44 Mbps,23 ms,1 ms,K01,p2,FALSE
+K,"laboratorio de informatica K01-S, p3",,,eduroam,5 GHz,40 MHz,116.0,802.11ac (Wi-Fi 5),3x3,-66 dBm,80 Mbps,70 Mbps,28 ms,1 ms,K01,p3,FALSE
+K,"laboratorio de informatica K01-S, p3",,,eduroam,2.4 GHz,20 MHz,1.0,802.11n (Wi-Fi 4),3x3,-45 dBm,14 Mbps,11 Mbps,166 ms,177 ms,K01,p3,FALSE
+K,"laboratorio de informatica K01-S, p4",,,eduroam,5 GHz,40 MHz,116.0,802.11ac (Wi-Fi 5),3x3,-68 dBm,94 Mbps,61 Mbps,24 ms,0 ms,K01,p4,FALSE
+K,"laboratorio de informatica K01-S, p4",,,eduroam,2.4 GHz,20 MHz,1.0,802.11n (Wi-Fi 4),3x3,-51 dBm,4 Mbps,0 Mbps,158 ms,125 ms,K01,p4,FALSE
+K,"laboratorio de informatica K01-S, p5",,,eduroam,5 GHz,40 MHz,116.0,802.11ac (Wi-Fi 5),3x3,-61 dBm,85 Mbps,71 Mbps,24 ms,1 ms,K01,p5,FALSE
+K,"laboratorio de informatica K01-S, p5",,,eduroam,2.4 GHz,20 MHz,1.0,802.11n (Wi-Fi 4),3x3,-55 dBm,9 Mbps,0 Mbps,76 ms,63 ms,K01,p5,FALSE
+K,"dentro K05, p1",,,eduroam,5 GHz,40 MHz,132.0,802.11ac (Wi-Fi 5),3x3,-57 dBm,100 Mbps,136 Mbps,68 ms,54 ms,K05,p1,FALSE
+K,"dentro K05, p1",,,eduroam,2.4 GHz,20 MHz,1.0,802.11n (Wi-Fi 4),3x3,-28 dBm,19 Mbps,28 Mbps,21 ms,0 ms,K05,p1,FALSE
+K,"dentro K05, p2",,,eduroam,5 GHz,40 MHz,132.0,802.11ac (Wi-Fi 5),3x3,-51 dBm,193 Mbps,143 Mbps,22 ms,0 ms,K05,p2,FALSE
+K,"dentro K05, p2",,,eduroam,2.4 GHz,20 MHz,1.0,802.11n (Wi-Fi 4),3x3,-35 dBm,14 Mbps,0 Mbps,21 ms,5 ms,K05,p2,FALSE
+K,"dentro K05, p3",,,eduroam,5 GHz,40 MHz,132.0,802.11ac (Wi-Fi 5),3x3,-64 dBm,115 Mbps,74 Mbps,24 ms,1 ms,K05,p3,FALSE
+K,"dentro K05, p3",,,eduroam,2.4 GHz,20 MHz,1.0,802.11n (Wi-Fi 4),3x3,-28 dBm,18 Mbps,0 Mbps,21 ms,2 ms,K05,p3,FALSE
+K,"dentro K05, p4",,,eduroam,5 GHz,40 MHz,132.0,802.11ac (Wi-Fi 5),3x3,-70 dBm,99 Mbps,44 Mbps,59 ms,50 ms,K05,p4,FALSE
+K,"dentro K05, p4",,,eduroam,2.4 GHz,20 MHz,1.0,802.11n (Wi-Fi 4),3x3,-28 dBm,5 Mbps,6 Mbps,121 ms,50 ms,K05,p4,FALSE
+K,"dentro K05, p5",,,eduroam,5 GHz,40 MHz,132.0,802.11ac (Wi-Fi 5),3x3,-63 dBm,98 Mbps,92 Mbps,25 ms,0 ms,K05,p5,FALSE
+K,"dentro K05, p5",,,eduroam,2.4 GHz,20 MHz,1.0,802.11n (Wi-Fi 4),3x3,-28 dBm,8 Mbps,17 Mbps,22 ms,1 ms,K05,p5,FALSE
+K,"dentro K06, p1",,,eduroam,5 GHz,40 MHz,132.0,802.11ac (Wi-Fi 5),3x3,-63 dBm,98 Mbps,92 Mbps,25 ms,0 ms,K06,p1,FALSE
+K,"dentro K06, p1",,,eduroam,2.4 GHz,20 MHz,1.0,802.11n (Wi-Fi 4),3x3,-28 dBm,48 Mbps,91 Mbps,21 ms,0 ms,K06,p1,FALSE
+K,"dentro K06, p2",,,eduroam,5 GHz,40 MHz,132.0,802.11ac (Wi-Fi 5),3x3,-57 dBm,147 Mbps,166 Mbps,38 ms,12 ms,K06,p2,FALSE
+K,"dentro K06, p2",,,eduroam,2.4 GHz,20 MHz,1.0,802.11n (Wi-Fi 4),3x3,-28 dBm,49 Mbps,76 Mbps,21 ms,0 ms,K06,p2,FALSE
+K,"dentro K06, p3",,,eduroam,5 GHz,40 MHz,132.0,802.11ac (Wi-Fi 5),3x3,-65 dBm,134 Mbps,88 Mbps,44 ms,27 ms,K06,p3,FALSE
+K,"dentro K06, p3",,,eduroam,2.4 GHz,20 MHz,1.0,802.11n (Wi-Fi 4),3x3,-28 dBm,36 Mbps,52 Mbps,22 ms,1 ms,K06,p3,FALSE
+K,"dentro K06, p4",,,eduroam,5 GHz,40 MHz,132.0,802.11ac (Wi-Fi 5),3x3,-69 dBm,96 Mbps,71 Mbps,36 ms,10 ms,K06,p4,FALSE
+K,"dentro K06, p4",,,eduroam,2.4 GHz,20 MHz,1.0,802.11n (Wi-Fi 4),3x3,-28 dBm,25 Mbps,41 Mbps,22 ms,1 ms,K06,p4,FALSE
+K,"dentro K06, p5",,,eduroam,5 GHz,40 MHz,132.0,802.11ac (Wi-Fi 5),3x3,-67 dBm,157 Mbps,77 Mbps,52 ms,33 ms,K06,p5,FALSE
+K,"dentro K06, p5",,,eduroam,2.4 GHz,20 MHz,1.0,802.11n (Wi-Fi 4),3x3,-28 dBm,29 Mbps,25 Mbps,21 ms,1 ms,K06,p5,FALSE
+K,"corredor bloco K ,fim",,,eduroam,5 GHz,40 MHz,132.0,802.11ac (Wi-Fi 5),3x3,-36 dBm,194 Mbps,214 Mbps,24 ms,0 ms,K,,TRUE
+K,"corredor bloco K ,fim",,,eduroam,2.4 GHz,20 MHz,1.0,802.11n (Wi-Fi 4),3x3,-28 dBm,10 Mbps,23 Mbps,28 ms,3 ms,K,,TRUE
+K,"corredor bloco K ,meio",,,eduroam,5 GHz,40 MHz,132.0,802.11ac (Wi-Fi 5),3x3,-36 dBm,243 Mbps,253 Mbps,25 ms,1 ms,K,,TRUE
+K,"corredor bloco K ,meio",,,eduroam,2.4 GHz,20 MHz,1.0,802.11n (Wi-Fi 4),3x3,-64 dBm,36 Mbps,58 Mbps,21 ms,0 ms,K,,TRUE
+K,"corredor bloco K ,inicio",,,eduroam,5 GHz,40 MHz,132.0,802.11ac (Wi-Fi 5),3x3,-52 dBm,45 Mbps,62 Mbps,26 ms,2 ms,K,,TRUE
+K,"corredor bloco K ,inicio",,,eduroam,2.4 GHz,20 MHz,1.0,802.11n (Wi-Fi 4),3x3,-28 dBm,25 Mbps,51 Mbps,21 ms,1 ms,K,,TRUE
+K,"dentro K03, p1",,,eduroam,5 GHz,40 MHz,132.0,802.11ac (Wi-Fi 5),3x3,-57 dBm,142 Mbps,126 Mbps,53 ms,40 ms,K03,p1,FALSE
+K,"dentro K03, p1",,,eduroam,2.4 GHz,20 MHz,1.0,802.11n (Wi-Fi 4),3x3,-45 dBm,10 Mbps,23 Mbps,22 ms,3 ms,K03,p1,FALSE
+K,"dentro K03, p2",,,eduroam,5 GHz,40 MHz,132.0,802.11ac (Wi-Fi 5),3x3,-53 dBm,157 Mbps,140 Mbps,56 ms,42 ms,K03,p2,FALSE
+K,"dentro K03, p2",,,eduroam,2.4 GHz,20 MHz,1.0,802.11n (Wi-Fi 4),3x3,-28 dBm,25 Mbps,51 Mbps,22 ms,1 ms,K03,p2,FALSE
+K,"dentro K03, p3",,,eduroam,5 GHz,40 MHz,132.0,802.11ac (Wi-Fi 5),3x3,-59 dBm,149 Mbps,93 Mbps,57 ms,43 ms,K03,p3,FALSE
+K,"dentro K03, p3",,,eduroam,2.4 GHz,20 MHz,1.0,802.11n (Wi-Fi 4),3x3,-28 dBm,14 Mbps,31 Mbps,23 ms,1 ms,K03,p3,FALSE
+K,"dentro K03, p4",,,eduroam,5 GHz,40 MHz,132.0,802.11ac (Wi-Fi 5),3x3,-65 dBm,99 Mbps,53 Mbps,26 ms,2 ms,K03,p4,FALSE
+K,"dentro K03, p4",,,eduroam,2.4 GHz,20 MHz,1.0,802.11n (Wi-Fi 4),3x3,-28 dBm,14 Mbps,31 Mbps,26 ms,3 ms,K03,p4,FALSE
+K,"dentro K03, p5",,,eduroam,5 GHz,40 MHz,132.0,802.11ac (Wi-Fi 5),3x3,-64 dBm,49 Mbps,48 Mbps,49 ms,39 ms,K03,p5,FALSE
+K,"dentro K03, p5",,,eduroam,2.4 GHz,20 MHz,1.0,802.11n (Wi-Fi 4),3x3,-28 dBm,8 Mbps,2 Mbps,33 ms,9 ms,K03,p5,FALSE
