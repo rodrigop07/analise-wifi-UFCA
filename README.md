@@ -60,7 +60,7 @@ python analise_dados.py
 
 ## Integrantes da equipe
 
-- [A](https://github.com/AndreLucas23)
+- [André Lucas de Souza Lima](https://github.com/AndreLucas23)
 - [K](https://github.com/Kayky-MM)
 - [M](https://github.com/MarcusVentura14)
 - [Rodrigo Pinheiro Alcantara](https://github.com/rodrigop07)
