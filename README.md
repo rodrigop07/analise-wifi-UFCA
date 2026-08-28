@@ -1,6 +1,6 @@
 # Análise de Dados da Rede Wi-Fi (UFCA)
 
-Este projeto contém um script Python (`analise_dados.py`) desenvolvido para um **trabalho de introdução à análise de dados**. O objetivo principal do script é realizar a limpeza de dados coletados sobre a rede Wi-Fi da universidade e aplicar testes estatísticos básicos para extrair insights sobre a qualidade da conexão (velocidade, latência, sinal, etc.).
+Este projeto contém um script Python (`analise_dados.py`) desenvolvido para um **trabalho de introdução à análise de dados**. O objetivo principal do script é realizar a limpeza de dados coletados sobre a rede Wi-Fi Eduroam nos blocos A e K da universidade e aplicar testes estatísticos básicos para extrair insights sobre a qualidade da conexão (velocidade, latência, sinal, etc.).
 
 ## O que o código faz?
 
@@ -62,5 +62,5 @@ python analise_dados.py
 
 - [André Lucas de Souza Lima](https://github.com/AndreLucas23)
 - [K](https://github.com/Kayky-MM)
-- [M](https://github.com/MarcusVentura14)
+- [Marcus Vinicius Oliveira Ventura](https://github.com/MarcusVentura14)
 - [Rodrigo Pinheiro Alcantara](https://github.com/rodrigop07)
