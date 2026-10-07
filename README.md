@@ -61,6 +61,6 @@ python analise_dados.py
 ## Integrantes da equipe
 
 - [André Lucas de Souza Lima](https://github.com/AndreLucas23)
-- [K](https://github.com/Kayky-MM)
+- [Kayky Moreira Morais](https://github.com/Kayky-MM)
 - [Marcus Vinicius Oliveira Ventura](https://github.com/MarcusVentura14)
 - [Rodrigo Pinheiro Alcantara](https://github.com/rodrigop07)
